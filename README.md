@@ -1,6 +1,6 @@
 # Hi, I'm Luan 👋
 
-Software Developer passionate about building clean, efficient solutions.
+Software Developer. Bridge between business need and technical development.
 
 ## Tech Stack
 
@@ -10,11 +10,16 @@ Software Developer passionate about building clean, efficient solutions.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
+## Projects
+
+- **[todos.md](https://github.com/peeomid/todos.md)** - Markdown-based todo management
+- **[thx](https://github.com/peeomid/thx)** - A CLI for things
+
 ## Connect
 
+[![Website](https://img.shields.io/badge/-osimify.com-000000?style=flat-square&logo=safari&logoColor=white)](https://osimify.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/peeomid)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luantn/)
 
 ---
 
