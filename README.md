@@ -12,6 +12,7 @@ Software Developer. Bridge between business need and technical development.
 
 ## Projects
 
+- **[recall](https://github.com/peeomid/recall)** - CLI to search and browse AI coding agent conversation history
 - **[todos.md](https://github.com/peeomid/todos.md)** - Markdown-based todo management
 - **[thx](https://github.com/peeomid/thx)** - A CLI for things
 
