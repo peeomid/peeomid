@@ -15,6 +15,7 @@ Software Developer. Bridge between business need and technical development.
 - **[trak-social-cli](https://github.com/peeomid/trak-social-cli)** - Facebook and Meta Ads CLI for pages, posts, ad data, and agent-friendly JSON output.
 - **[todos.md](https://github.com/peeomid/todos.md)** - Markdown-based task manager for local-first project work.
 - **[recall](https://github.com/peeomid/recall)** - Search and browse AI coding agent conversation history from the terminal.
+- **[CalmPage](https://github.com/peeomid/CalmPage)** - Native macOS Markdown reader for local files, folders, tabs, and focus reading.
 - **[prj](https://github.com/peeomid/prj)** - Local Git repository scanner and project dashboard for the terminal.
 - **[update-tracker](https://github.com/peeomid/update-tracker)** - Track GitHub, npm, and Homebrew updates with local compare and Discord-friendly output.
 - **[agj](https://github.com/peeomid/agj)** - Monitor Codex and Claude iTerm2 sessions, spot approval prompts, and jump to the right pane fast.
