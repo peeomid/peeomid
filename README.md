@@ -16,6 +16,7 @@ Software Developer. Bridge between business need and technical development.
 - **[todos.md](https://github.com/peeomid/todos.md)** - Markdown-based task manager for local-first project work.
 - **[recall](https://github.com/peeomid/recall)** - Search and browse AI coding agent conversation history from the terminal.
 - **[CalmPage](https://github.com/peeomid/CalmPage)** - Native macOS Markdown reader for local files, folders, tabs, and focus reading.
+- **[readmd](https://github.com/peeomid/readmd)** - CLI that turns Markdown files into beautiful, portable HTML reading pages.
 - **[prj](https://github.com/peeomid/prj)** - Local Git repository scanner and project dashboard for the terminal.
 - **[update-tracker](https://github.com/peeomid/update-tracker)** - Track GitHub, npm, and Homebrew updates with local compare and Discord-friendly output.
 - **[agj](https://github.com/peeomid/agj)** - Monitor Codex and Claude iTerm2 sessions, spot approval prompts, and jump to the right pane fast.
